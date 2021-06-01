@@ -1,0 +1,32 @@
+.fixed-bottom {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 1030;
+}
+.footer-bg {
+    background-color: #198754!important;
+}
+.footer-navbar {
+    position: flex!important;
+    display: flex!important;
+    flex-wrap: wrap!important;
+    align-items: center!important;
+    justify-content: space-between!important;
+    padding: 1.5rem 3rem!important;
+    overflow: inherit!important;
+  }
+
+
+  .footer-next {
+    position: flex!important;
+    display: flex!important;
+    flex-wrap: wrap!important;
+    align-items: center!important;
+    justify-content: center!important;
+    padding: 1rem!important;
+    overflow: inherit!important;
+    font-size: 1.7rem;
+  }
+  
